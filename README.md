@@ -1,4 +1,7 @@
-[center] ### Hi ! I'm currently in first year of a master degree in IT. [/center]
+
+### <div align="center">Hi ! I'm currently in first year of a master degree in IT.</div>
+
+
 
 <!--
 **Phil1010/Phil1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
